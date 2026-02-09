@@ -24,3 +24,23 @@
 - [Enlace a algún recurso que te haya gustado]
 
 ---
+## 🔍 Comandos investigados
+
+### git log --oneline
+te muestra la linea de commits hechas y su mensaje
+
+### git remote -v
+muestra las conexiones remotas y sus URL asociadas
+
+### git branch
+me dice en la rama que estoy trabajando dentro de mi proyecto
+
+### git pull
+actualiza el repositorio local con los cambios mas recientes de un remoto. 
+
+### .gitignore
+define que archivos han de ser ignorados dentro de un proyecto y no han de ser rastreados por el control de versiones
+
+### git add . vs git add archivo
+git add . añade todos los archivos a un area de trabajo
+git add archivo añade un archivo específico
