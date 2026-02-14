@@ -1,27 +1,41 @@
-# 📅 Día 1 - [Fecha]
+# 📅 Día 1 - [02 de Febrero de 2026]
 
 ## 🎯 Lo que hemos visto hoy
 
-### Mañana
-- Dinámica: Gartic Phone (sobre distorsión de información)
-- Conceptos: ¿Qué es análisis de datos?
-- Ejercicio: Palabras en griego (buscar patrones sin contexto)
+• Programar: Se define como dar instrucciones a un ordenador para que haga algo por ti (leer datos, ordenarlos, calcular, etc.).
+    ◦ Código: Instrucciones escritas (en Python, R...).
+    ◦ Datos: Información con la que trabajamos (números, texto, fechas...).
 
-### Tarde
-- Git y GitHub: instalación y configuración
-- Primeros comandos: clone, status, add, commit, push
+• Terminal / Consola: Ventanas de texto donde se escriben comandos directamente al sistema operativo, en lugar de usar el ratón.
+    ◦ Ejemplos: Bash (LS para ver archivos) y PowerShell (específica de Windows con comandos propios como Get-ChildItem).
+
+Comandos Básicos:
+    ◦ pwd (Linux/Mac) / cd: Ver dónde estoy.
+    ◦ ls / dir: Ver archivos.
+    ◦ cd nombre_carpeta: Entrar en carpeta.
+    ◦ cd ..: Volver atrás.
+    ◦ mkdir: Crear carpeta.
+    ◦ rm / del: Borrar archivo.
+
+• Ruta / Directorio: Siempre se está dentro de una carpeta concreta al usar la consola.
+
+• Código vs Datos: Los datos son la materia prima (.csv, .xlsx, .json), mientras que el código indica qué hacer con ellos (.py, .ipynb, .sql).
+
+• GitHub: Sitio web para guardar proyectos con la herramienta Git, permitiendo compartir código y trabajar en equipo.
+
 
 ## 💡 Lo que he aprendido
 
-[Escribe aquí lo más importante que te llevas del día]
+Abrir archivos desde la terminal, he conocido la terminal. 
+Conocer GitHub, crear cuenta.
 
 ## ❓ Dudas que tengo
 
-[Anota aquí lo que necesitas repasar o preguntar]
+de momento el primer dia no hay dudas.
 
 ## 🔗 Recursos útiles
 
-- [Enlace a algún recurso que te haya gustado]
+https://www.hostinger.com/es/tutoriales/linux-comandos
 
 ---
 ## 🔍 Comandos investigados
