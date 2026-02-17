@@ -1,3 +1,26 @@
+# 📅 Día 2 - [03 de Febrero de 2026]
+
+# Lógica y Ecosistema.
+
+## 🎯 Lo que hemos visto:
+
+Sesión dedicada a la agilidad mental y al reconocimiento de las herramientas de organización del curso.
+
+🧠 Aprendizaje Logístico
+
+• Lógica Aritmética: Práctica intensiva con juegos de matemáticas para desarrollar el pensamiento computacional.
+
+• Vocabulario IT: Importancia de términos como "parámetro" para la comunicación técnica.
+
+## 🔗 Recursos útiles
+
+DICCIONARIO IT: https://techterms.com/definition/parameter
+REPO PRINCIPAL: https://anais-rv.github.io/da-roadmap/
+REPO ITINERARIO - PRIMEROS PASOS: https://github.com/Anais-RV/data-analyst-learning-path
+REPO LAUNCHPAD FUNDAMENTOS: https://github.com/Anais-RV/da-sat-00-launchpad-fundamentos
+JUEGO DE ARITMETRICA https://adultnumeracynetwork.org/Guess-My-Rule
+
+
 ## Paso 1: El problema de los malos nombres (5 min)
 > **Guion para la docente:**
 Vamos a hablar de algo que parece tonto pero que es **crítico** en un entorno profesional.
@@ -7,7 +30,7 @@ Vamos a hablar de algo que parece tonto pero que es **crítico** en un entorno p
 git commit -m "cambios"
 git commit -m "arreglos"
 git commit -m "update"
-git commit -m "asdfgh"
+git commit -m "arreglos"
 # ❌ Ramas con nombres personales
 git branch maria
 git branch rama-de-laura
